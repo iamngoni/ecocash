@@ -1,5 +1,5 @@
 name: ecocash
-description: A Very Good Project created by Very Good CLI.
+description: Ecocash Design
 version: 1.0.0+1
 publish_to: none
 
@@ -14,7 +14,9 @@ dependencies:
   flutter_bloc: ^8.1.1
   flutter_localizations:
     sdk: flutter
+  handy_extensions:
   intl: ^0.17.0
+  relative_scale:
 
 dev_dependencies:
   bloc_test: ^9.1.0
