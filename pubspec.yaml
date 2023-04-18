@@ -15,7 +15,7 @@ dependencies:
   flutter_bloc: ^8.1.1
   flutter_localizations:
     sdk: flutter
-  handy_extensions:
+  handy_extensions: ^0.0.9
   intl: ^0.17.0
   relative_scale:
 
