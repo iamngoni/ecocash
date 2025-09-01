@@ -1,6 +1,6 @@
 name: ecocash
 description: A comprehensive Dart SDK for integrating Ecocash payment services. Supports instant payments, transaction lookup, and refund processing with functional error handling.
-version: 0.1.0
+version: 0.0.1
 repository: https://github.com/iamngoni/ecocash
 homepage: https://github.com/iamngoni/ecocash
 documentation: https://github.com/iamngoni/ecocash#readme
